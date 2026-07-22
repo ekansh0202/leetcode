@@ -89,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ekansh0202/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ekansh0202/leetcode/tree/master/0125-valid-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ekansh0202/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
