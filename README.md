@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ekansh0202/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ekansh0202/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ekansh0202/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ekansh0202/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ekansh0202/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ekansh0202/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ekansh0202/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ekansh0202/leetcode/tree/master/0125-valid-palindrome) |
