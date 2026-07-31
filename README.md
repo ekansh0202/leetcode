@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ekansh0202/leetcode/tree/master/0155-min-stack) |
+| [0707-design-linked-list](https://github.com/ekansh0202/leetcode/tree/master/0707-design-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ekansh0202/leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/ekansh0202/leetcode/tree/master/0881-boats-to-save-people) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ekansh0202/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
