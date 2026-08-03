@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ekansh0202/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ekansh0202/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ekansh0202/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/ekansh0202/leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ekansh0202/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ekansh0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ekansh0202/leetcode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/ekansh0202/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/ekansh0202/leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ekansh0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ekansh0202/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ekansh0202/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ekansh0202/leetcode/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/ekansh0202/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/ekansh0202/leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ekansh0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ekansh0202/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ekansh0202/leetcode/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/ekansh0202/leetcode/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/ekansh0202/leetcode/tree/master/0948-bag-of-tokens) |
 ## Linked List
 |  |
 | ------- |
