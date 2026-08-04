@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ekansh0202/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ekansh0202/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ekansh0202/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/ekansh0202/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/ekansh0202/leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ekansh0202/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ekansh0202/leetcode/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/ekansh0202/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/ekansh0202/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/ekansh0202/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/ekansh0202/leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ekansh0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ekansh0202/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/ekansh0202/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/ekansh0202/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/ekansh0202/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/ekansh0202/leetcode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ekansh0202/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ekansh0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
