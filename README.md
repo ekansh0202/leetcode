@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ekansh0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ekansh0202/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ekansh0202/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/ekansh0202/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ekansh0202/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ekansh0202/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ekansh0202/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ekansh0202/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/ekansh0202/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ekansh0202/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ekansh0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/ekansh0202/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ekansh0202/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/ekansh0202/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ekansh0202/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ekansh0202/leetcode/tree/master/0268-missing-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ekansh0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2540-minimum-common-value](https://github.com/ekansh0202/leetcode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
