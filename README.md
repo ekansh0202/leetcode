@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ekansh0202/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/ekansh0202/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ekansh0202/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ekansh0202/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ekansh0202/leetcode/tree/master/0268-missing-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ekansh0202/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2540-minimum-common-value](https://github.com/ekansh0202/leetcode/tree/master/2540-minimum-common-value) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ekansh0202/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/ekansh0202/leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ekansh0202/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ekansh0202/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ekansh0202/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
 | ------- |
