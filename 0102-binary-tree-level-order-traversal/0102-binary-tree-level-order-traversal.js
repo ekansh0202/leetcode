@@ -17,25 +17,22 @@ var levelOrder = function(root) {
 
     let queue = [root];
     let result = [];
-    let current;
-    let levelSize = 0;
-    let levelArray = [];
 
     while(queue.length){
 
-        levelArray = [];
-        levelSize = queue.length;
+        let levelArray = [];
+        let levelSize = queue.length;
 
         for(let i=0;i<levelSize;i++){
             // Removing from front;
-            current = queue.shift();
+            let current = queue.shift();
 
             // Processing each level
-            levelArray.push(current?.val);
+            levelArray.push(current.val);
 
             // Push children of current element
-            current?.left && queue.push(current.left);
-            current?.right && queue.push(current.right);
+            current.left && queue.push(current.left);
+            current.right && queue.push(current.right);
         }
         result.push(levelArray);
     }
