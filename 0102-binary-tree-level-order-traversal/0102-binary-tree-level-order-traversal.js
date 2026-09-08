@@ -27,12 +27,12 @@ var levelOrder = function(root) {
             // Removing from front;
             let current = queue.shift();
 
-            // Processing each level
-            levelArray.push(current.val);
-
             // Push children of current element
             current.left && queue.push(current.left);
             current.right && queue.push(current.right);
+
+            // Processing each level
+            levelArray.push(current.val);
         }
         result.push(levelArray);
     }
