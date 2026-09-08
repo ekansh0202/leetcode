@@ -11,23 +11,25 @@
  * @return {number[]}
  */
 var preorderTraversal = function(root) {
-    // Root => Left => Right
-    if(root === null) return [];
+    // Preorder = root -> left -> right
+    // Recursive approach
 
-    let stack = [root];
     let result = [];
 
-    while(stack.length > 0){
-        let node = stack.pop();
+    function traversal(currentNode){
+        //Base case
+        if(!currentNode) return;
 
-        result.push(node.val);
+        // Push root
+        result.push(currentNode.val);
 
-        // Push right first
-        if(node.right) stack.push(node.right);
+        // Go to left sub tree
+        traversal(currentNode.left);
 
-        // Push left second
-        if(node.left) stack.push(node.left);
+        // Go to right sub tree
+        traversal(currentNode.right);
     }
 
+    traversal(root);
     return result;
 };
