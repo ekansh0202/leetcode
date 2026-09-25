@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ekansh0202/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ekansh0202/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ekansh0202/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ekansh0202/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ekansh0202/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/ekansh0202/leetcode/tree/master/0658-find-k-closest-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ekansh0202/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ekansh0202/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ekansh0202/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ekansh0202/leetcode/tree/master/0226-invert-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/ekansh0202/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
